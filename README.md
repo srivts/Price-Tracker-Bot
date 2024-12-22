@@ -63,4 +63,5 @@ Contributions are always welcome, follow these steps to contribute:
 3. You can modify the scraping logic to support more websites or specific product categories.
 
 ## License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
