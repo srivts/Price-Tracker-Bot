@@ -1,4 +1,6 @@
 import sqlite3
+#For database testing:
+
 def clear_table():
     conn=sqlite3.connect("product_data.db")
     c=conn.cursor()
