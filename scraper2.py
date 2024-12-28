@@ -169,7 +169,7 @@ def get_nykaa_price(url):
         driver.quit()
 
             
-
+''' For Individual URL testing:
 def main():
     url = input("Enter product URL: ").strip()
     price = get_price(url)
@@ -180,3 +180,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+'''
